@@ -1,0 +1,18 @@
+{
+    "name": "kafka-producer",
+    "type": "module",
+    "version": "1.0.0",
+    "description": "Produce Kafka",
+    "main": "index.js",
+
+    "scripts": {
+        "test": "echo test/index.js"        
+    },
+
+    "keywords": [],
+    "author": "Jhow",
+    "license": "ISC-3-Clause",
+    "dependencies": {
+        "kafkajs" : "^2.2.3"
+    }
+}
